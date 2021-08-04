@@ -7,6 +7,7 @@ It is an scanning tool designed to fast port scanning using multy types of tools
 
 # How to use it:
 > cd Super-Inspector
+
 > python theinspector.py
 
 
